@@ -1,4 +1,4 @@
-import { MessageQueue } from "./index.js";
+import { MessageQueue } from "./MessageQueue.js";
 
 /**
  * TBD

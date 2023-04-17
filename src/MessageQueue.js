@@ -1,4 +1,4 @@
-import { Subscription } from "./index.js";
+import { Subscription } from "./Subscription.js";
 
 export class MessageQueue {
   /**
