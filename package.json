@@ -1,0 +1,24 @@
+{
+  "name": "psmq",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/PubSubMQ.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PubSub",
+    "pubsub",
+    "publish",
+    "subscribe",
+    "push",
+    "event",
+    "message queue",
+    "notification"
+  ],
+  "author": {
+    "name": "Zi Han Meng",
+    "email": "zi.han.meng100@gmail.com"
+  },
+  "license": "MIT"
+}
