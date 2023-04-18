@@ -1,7 +1,7 @@
 {
   "name": "psmq",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.2.0",
+  "description": "Message queue infrastructure implementing the publish/subscribe pattern. It enables message producers to push any type of payload to any number of message consumers.",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,14 @@
   "author": {
     "name": "Zi Han Meng",
     "email": "zi.han.meng100@gmail.com"
+  },
+  "homepage": "https://github.com/zeemeng/PubSubMQ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeemeng/PubSubMQ.git"
+  },
+  "engines": {
+    "node": ">=13.2.0"
   },
   "license": "MIT"
 }

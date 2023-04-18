@@ -23,6 +23,6 @@ export class MessageQueue {
    * @param {any} message
    */
   publish(message) {
-    this.observers.forEach((subscription) => subscription.callback(message));
+    this.observers.forEach(subscription => subscription.callback(message));
   }
 }
