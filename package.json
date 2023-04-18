@@ -1,9 +1,9 @@
 {
   "name": "psmq",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Message queue infrastructure implementing the publish/subscribe pattern. It enables message producers to push any type of payload to any number of message consumers.",
   "type": "module",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
